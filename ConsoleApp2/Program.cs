@@ -2,8 +2,8 @@
 
 namespace ConsoleApp2
 {
-    class Program
-    {
+	public class Program
+	{
 		static public int Example(int a, int b)
 		{
 			int c = a + b;
